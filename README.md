@@ -1,4 +1,4 @@
-## ![Alex](https://user-images.githubusercontent.com/92278905/171544579-634a1576-ecac-4d03-bf97-c0bfe6f43a08.png) Hi there welcome to my Github! ![tea](https://user-images.githubusercontent.com/92278905/171544417-77bd7f35-7739-4dff-ade3-270db03e82b7.png)
+## ![Alex]Hi there welcome to my Github! 
 
 <a href="mailto:knibz@protonmail.com?" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
