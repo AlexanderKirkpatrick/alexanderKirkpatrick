@@ -1,4 +1,4 @@
-## ![Alex]Hi there welcome to my Github! 
+## Hi there! Welcome to my Github! 
 
 <a href="mailto:knibz@protonmail.com?" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
