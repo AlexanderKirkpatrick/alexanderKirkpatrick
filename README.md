@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my Github! 
 
 <a href="mailto:knibz@protonmail.com?" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/alexander-kirkpatrick-ak-ga/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
