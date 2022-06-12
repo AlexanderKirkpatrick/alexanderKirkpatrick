@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning about C#. 
   
 
-- ❓ Ask me about my past projects, how I separate my logic, and my philosophy on pair programming.  
+- ❓ Ask me about my projects!  
   
 
 - ⚡ I need to fill this out better.   
@@ -33,7 +33,7 @@
 <!-- <div align="center">
   <img style="margin: 30px" src="https://user-images.githubusercontent.com/92278905/172034253-2d4667dd-d2f9-43ca-8392-36640bc9f4d2.jpg" alt="React" height="280"/> 
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-</div>   -->
+</div>   
 
 
 </td></tr></table>  
