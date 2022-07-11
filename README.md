@@ -26,7 +26,7 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a team project [Pokemon RPG](https://github.com/maurorosalesjr/PokeRPG)  
+- 🔭 I’m currently working on a C# project for getting the price of a package (https://github.com/AlexanderKirkpatrick/ParcelChecker)  
   
 
 - 🌱 I’m currently learning about C#. 
