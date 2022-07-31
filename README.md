@@ -26,7 +26,7 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a C# project for listing out the best restaurants, according to the cuisines (https://github.com/AlexanderKirkpatrick/Best_Restaurants)  
+- 🔭 I’m currently working on a C# project for listing out the best restaurants, according to the cuisines (https://github.com/AlexanderKirkpatrick/HairSalon)  
   
 
 - 🌱 I’m currently learning about C#. 
@@ -35,7 +35,7 @@
 - ❓ Ask me about my projects!  
   
 
-- ⚡ I need to fill this out better.   
+- ⚡ I love making music and disc golfing in my spare time.   
 
 
 </td><td valign="top" width="50%">
