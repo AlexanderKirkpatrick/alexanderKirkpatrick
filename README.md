@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my Github! 
 
-<a href="mailto:knibz@protonmail.com?" target="_blank">
+<a href="mailto:alex_kirkpatrick@proton.me?" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/alexander-kirkpatrick-ak-ga/" target="_blank">
