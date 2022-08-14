@@ -26,7 +26,7 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a C# project for listing out the best restaurants, according to the cuisines (https://github.com/AlexanderKirkpatrick/HairSalon)  
+- 🔭 I’m currently working on a C# project for keeping track of a factory's machines and engineers! (https://github.com/AlexanderKirkpatrick/DrSillyStringzsFactory.Solution)  
   
 
 - 🌱 I’m currently learning about C#. 
