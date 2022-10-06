@@ -26,10 +26,10 @@
 ## About Me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a C# project for keeping track of a factory's machines and engineers! (https://github.com/AlexanderKirkpatrick/DrSillyStringzsFactory.Solution)  
+- 🔭 I’m currently working on a Haiku checking program, using functional programming and regex! (https://github.com/AlexanderKirkpatrick/HaikuChecker) 
   
 
-- 🌱 I’m currently learning about C#. 
+- 🌱 I’m currently learning about React. 
   
 
 - ❓ Ask me about my projects!  
